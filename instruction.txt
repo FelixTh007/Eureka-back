@@ -1,0 +1,9 @@
+/MaSuperApi
+├── /Data            
+├── /Models          
+├── /DTOs            
+├── /Endpoints       
+├── /Services        
+├── appsettings.json
+├── appsettings.Development.json
+└── Program.cs       
