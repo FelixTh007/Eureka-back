@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Eureka")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7ca6d2b4d2fe52a887a1d37141c5abdffcd69f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e8d073e458dc905152645244ec7a9ddaddbbd93")]
 [assembly: System.Reflection.AssemblyProductAttribute("Eureka")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Eureka")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
