@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "XYgwSk41ytFqLJPvf9EJ658fp4ojJUp+fek5jwLXnyY=",
+  "Source": "Eureka",
+  "BasePath": "_content/Eureka",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

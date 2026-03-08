@@ -1,9 +1,9 @@
 /MaSuperApi
-├── /Data            
-├── /Models          
-├── /DTOs            
-├── /Endpoints       
-├── /Services        
-├── appsettings.json
+├── /Data                                                          model de communication, avec dossier migrations
+├── /Models                                                       otrany mahazatra 
+├── /DTOs                                                         permet d'afficher les champs voulu,  dto c'est comme une interface pour l'affichage permet de filtrer les result du modesl
+├── /Endpoints                                                    definition des url pour un api minimal                                                    
+├── /Services                                                     
+├── appsettings.json    
 ├── appsettings.Development.json
-└── Program.cs       
+└── Program.cs
